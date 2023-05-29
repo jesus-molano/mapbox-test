@@ -1,4 +1,4 @@
-import VesselMap from "./components/Map";
+import VesselMap from "./components/VesselMap";
 
 export default function Home() {
   return (
